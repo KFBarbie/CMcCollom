@@ -1,4 +1,4 @@
-# Hi, I'm Cait
+# Hi, I'm Caitlin
 
 I am a business operations leader with 10+ years of senior-level experience in small business environments, currently earning an M.S. in DevOps. My work combines process improvement, technical learning, software quality, and project coordination.
 
